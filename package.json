@@ -4,10 +4,7 @@
   "description": "Adds IcedCoffeeScript support to brunch.",
   "author": "Paul Miller (http://paulmillr.com/)",
   "homepage": "https://github.com/brunch/iced-coffee-script-brunch",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:brunch/iced-coffee-script-brunch.git"
-  },
+
   "main": "./lib/index",
   "scripts": {
     "postinstall": "node setup.js postinstall",
